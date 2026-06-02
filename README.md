@@ -1,8 +1,5 @@
-<div align="center">
-  <!-- Profile Photo / Banner -->
-  <img src=""C:\Users\Dhriti Dixit\OneDrive\Pictures\profile.jpg"" alt="Dhriti Dixit" width="150" style="border-radius: 50%; border: 3px solid #5A4FCF;"/>
-
-  <!-- Aesthetic Animated Greeting -->
+  <div align="center">
+    <!-- Aesthetic Animated Greeting -->
   <h1>Hey there! I'm Dhriti Dixit 👋</h1>
   
   <p align="center">
