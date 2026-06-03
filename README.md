@@ -3,7 +3,7 @@
   <h1>Hey there! I'm Dhriti Dixit 👋</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=967BB6&center=true&vCenter=true&width=500&lines=B.Tech+Artificial+Intelligence;Aspiring+AI+Engineer;Web+Developer+%7C+Designer;Tech+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=967BB6&center=true&vCenter=true&width=500&lines=Aspiring+AI+Engineer;Web+Developer+%7C+Designer;Tech+Innovator" alt="Typing SVG" />
   </p>
 
   <!-- Quick Badges -->
