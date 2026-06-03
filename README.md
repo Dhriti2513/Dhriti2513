@@ -95,5 +95,5 @@ Let’s talk data architectures, seamless frontend design, or upcoming hackathon
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=2D5A27&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/?type=waving&color=2D5A27&height=100&section=footer&random=123" width="100%"/>
 </div>
