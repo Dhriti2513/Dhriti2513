@@ -95,5 +95,5 @@ Let’s talk data architectures, seamless frontend design, or upcoming hackathon
 </p>
 
 <div align="center">
-  <img src="https://github.com/Dhriti2513 /Dhriti2513 /blob/main/assets/banner_dd.png?raw=true" width="100%" alt="Dhriti Dixit Profile Banner"/>
+  <img src="https://github.com/Dhriti2513/Dhriti2513/blob/main/banner_dd.png?raw=true" width="100%" alt="Dhriti Dixit Profile Banner"/>
 </div>
