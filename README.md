@@ -81,6 +81,17 @@ When I'm not training models or optimizing algorithms, I immerse myself in desig
 
 ---
 
+## 🏆 Certifications & Achievements
+
+[![View Portfolio](https://img.shields.io/badge/Verified_Credentials-Click_To_View_Repository-blueviolet?style=for-the-badge&logo=github)](https://github.com/YDhriti2513/my-certifications)
+
+### ⚡ Quick Summary:
+* **Artificial Intelligence:** EY & Microsoft AI Skills Passport, IBM SkillsBuild, NASSCOM × Meta LLM Course, TCS iON GenAI Essentials.
+* **Development & Security:** Mozilla JavaScript Essentials, TCS iON AI & Cybersecurity.
+* **Competitive Hackathons:** Smart India Hackathon (SIH) 2025, HackForBihar, Code for Bharat.
+
+---
+
 ### 🤝 Connect & Collaborate
 
 Let’s talk data architectures, seamless frontend design, or upcoming hackathons.
