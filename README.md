@@ -85,12 +85,15 @@ When I'm not training models or optimizing algorithms, I immerse myself in desig
 
 Let’s talk data architectures, seamless frontend design, or upcoming hackathons.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dhriti-dixit-92aa81320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ddhriti61@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dhriti2513.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
