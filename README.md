@@ -95,5 +95,5 @@ Let’s talk data architectures, seamless frontend design, or upcoming hackathon
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/?type=waving&color=2D5A27&height=100&section=footer&random=123" width="100%"/>
+  <img src="https://github.com/Dhriti2513 /Dhriti2513 /blob/main/assets/banner_dd.png?raw=true" width="100%" alt="Dhriti Dixit Profile Banner"/>
 </div>
