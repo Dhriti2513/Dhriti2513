@@ -50,20 +50,17 @@ When I'm not training models or optimizing algorithms, I immerse myself in desig
   <table border="0">
     <tr>
       <td>
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Dhriti2513&theme=black-lucent&hide_border=true" alt="GitHub Streak" width="400" />
+        <img src="https://github-readme-stats-kappa-inky-79.vercel.app/api?username=Dhriti2513&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="400" />
       </td>
       <td>
-        <!-- Top Languages Card -->
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Dhriti2513&theme=black-lucent&hide_border=true" alt="GitHub Streak" width="400" />
+        <img src="https://github-readme-stats-kappa-inky-79.vercel.app/api/top-langs/?username=Dhriti2513&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Activity Graph -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Dhriti2513&theme=black-lucent&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=Dhriti2513&theme=radical&hide_border=true" alt="GitHub Streak" width="820" />
 </div>
 
 ---
